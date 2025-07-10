@@ -27,9 +27,6 @@ A real-time computer vision project built with Python and OpenCV that detects hu
 
 5. Press `Esc` key to exit.
 
-## 📸 Sample Output
-_Add a screenshot or short demo video here (optional)_
-
 ## 🙋‍♂️ Author
 Aditya Kumar
 
